@@ -1,0 +1,24 @@
+---
+title: "NSCLC"
+description: "AJCC 8th editiopn (2017)"
+author: "BenKorea"
+date: "2024-11-18"
+date-modified: "2024-11-18"
+categories:
+  - Introduction
+---
+
+The definition of T staging in non-small cell lung cancer is shown in @tbl-stages.
+
+<div>
+
+| **T** | **Primary Tumor** |
+|:-------------|:-----------------------------------------------------------|
+| **Tx** | Primary tumor cannot be assessed, or tumor proven by the presence of malignant cells in sputum or bronchial washings but not visualized by imaging or bronchoscopy |
+| **T0** | No evidence of primary tumor |
+| **Tis** | Carcinoma in situ <br> Squamous cell carcinoma in situ (SCIS) <br> Adenocarcinoma in situ (AIS): adenocarcinoma with pure lepidic pattern, ≤3 cm in greatest dimension |
+
+
+: Definition of non-small cell lung cancer T staging {#tbl-stages}
+
+</div>

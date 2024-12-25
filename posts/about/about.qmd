@@ -1,0 +1,13 @@
+---
+title: "About"
+description: "Introduction to this site"
+author: "BenKorea"
+date: "2024-10-14"
+date-modified: "2024-10-14"
+categories:
+  - introduction
+---
+
+As a Nuclear Medicine Physician, PET/CT interpretation requires continuous learning.
+
+There are many aspects to review and organize, and it's essential to keep up with updates to guidelines and international recommendations. I created this site to organize what I’ve learned and make it easier for me to reference when needed. I hope it may also serve as a useful resource for others.

@@ -1,9 +1,70 @@
 [
   {
+    "objectID": "posts/SCLC/staging.html",
+    "href": "posts/SCLC/staging.html",
+    "title": "Staging for Small Cell Lung Cancer",
+    "section": "",
+    "text": "The definition of small cell lung cancer is divided into two stages as shown in Table 1.\n\n\n\n\nTable 1: Definition of small cell lung cancer consists of two stages\n\n\n\n\n\n\n\n\n\nStage\nDescription\n\n\n\n\nLimited Stage\nStage I-III (T any, N any, M0) that can be safely treated with definitive radiation doses. Excludes T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.\n\n\nExtensive Stage\nStage IV (T any, N any, M1a/b/c), or T3-4 due to multiple lung nodules that are too extensive or tumor/nodal volume too large to be encompassed in a tolerable radiation plan.",
+    "crumbs": [
+      "SCLC",
+      "Staging for Small Cell Lung Cancer"
+    ]
+  },
+  {
+    "objectID": "posts/NSCLC/staging.html",
+    "href": "posts/NSCLC/staging.html",
+    "title": "NSCLC",
+    "section": "",
+    "text": "The definition of T staging in non-small cell lung cancer is shown in Table 1.\n\n\n\n\nTable 1: Definition of non-small cell lung cancer T staging\n\n\n\n\n\n\n\n\n\nT\nPrimary Tumor\n\n\n\n\nTx\nPrimary tumor cannot be assessed, or tumor proven by the presence of malignant cells in sputum or bronchial washings but not visualized by imaging or bronchoscopy\n\n\nT0\nNo evidence of primary tumor\n\n\nTis\nCarcinoma in situ  Squamous cell carcinoma in situ (SCIS)  Adenocarcinoma in situ (AIS): adenocarcinoma with pure lepidic pattern, ≤3 cm in greatest dimension",
+    "crumbs": [
+      "NSCLC"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Template",
+    "title": "블로그",
     "section": "",
-    "text": "1단계: Quarto Website 프로젝트 만들기\n\n\n\n\n\n\nRStudio/File 메뉴에서 New Project... 메뉴 선택\nNew Directory에 생성되도록 선택\nProject type은 Quarto Website를 선택\n상위폴더가 C:/Projects인지 확인 (=Global Options 사전 지정값)\nDirectory name은 R-4.4.1-Quarto_Website_Example로 지정\nCreate a git repository: 체크 유지하여 버전관리 적용\nUse renv with this project: 체크 유지하여 패키지 독립관리 적용\nUse visual markdown editor: 체크 유지하여 wizwig 에디터 사용\nOpen in new session: 기존 프로젝트가 이미 열려있고, 같이 사용할려면 체크\n\n\n\n\n툴팁은 특정문자이 구현되어야 한다.\n\n\n\nrecommeded project name\n\nR-4.4.1-Hands_on_Shinylive_Example\n\n\n\n폴더구조 참조\n\n\n\n\nC:\\Projects\\\n      └─ R-x.y.z-Project_Name\n\n\nFigure 1: Recommended nomenclautue for Project directory name\n\n\n\n\n목적\n\nQUarto Website 프로젝트를 생성하고 Bootstrap tooltip 및 Utterance 기능구현을 위한 설정, Render 기능을 위한 기본적인 R 패키지 설치까지를 template화 함."
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nNSCLC\n\n\n\n\n\n\nIntroduction\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nNov 18, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\nintroduction\n\n\n\nIntroduction to this site\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Prostate Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\n\n\n\n\n\n\nStaging for Small Cell Lung Cancer\n\n\n\n\n\n\nstaging\n\n\n\nAJCC 8th editiopn (2017)\n\n\n\n\n\nOct 14, 2024\n\n\nBenKorea\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/about/about.html",
+    "href": "posts/about/about.html",
+    "title": "About",
+    "section": "",
+    "text": "As a Nuclear Medicine Physician, PET/CT interpretation requires continuous learning.\nThere are many aspects to review and organize, and it’s essential to keep up with updates to guidelines and international recommendations. I created this site to organize what I’ve learned and make it easier for me to reference when needed. I hope it may also serve as a useful resource for others."
+  },
+  {
+    "objectID": "posts/prostate/staging.html",
+    "href": "posts/prostate/staging.html",
+    "title": "Staging for Prostate Cancer",
+    "section": "",
+    "text": "Table 1: Definition of clinical stages\n\n\n\n\n\n\n\n\n\ncT\nDescription\n\n\n\n\nTX\nPrimary tumor cannot be assessed\n\n\nT0\nNo evidence of primary tumor\n\n\nT1\nClinically inapparent tumor that is not palpable\n\n\nT1a\nTumor incidental histologic finding in 5% or less of tissue resected\n\n\nT1b\nTumor incidental histologic finding in more than 5% of tissue resected\n\n\nT1c\nTumor identified by needle biopsy found in one or both sides, but not palpable\n\n\nT2\nTumor is palpable and confined within prostate\n\n\nT2a\nTumor involves one-half of one side or less\n\n\nT2b\nTumor involves more than one-half of one side but not both sides\n\n\nT2c\nTumor involves both sides\n\n\nT3\nExtraprostatic tumor that is not fixed or does not invade adjacent structures\n\n\nT3a\nExtraprostatic extension (unilateral or bilateral)\n\n\nT3b\nTumor invades seminal vesicle(s)\n\n\nT4\nTumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall",
+    "crumbs": [
+      "Prostate",
+      "Staging for Prostate Cancer"
+    ]
+  },
+  {
+    "objectID": "posts/prostate/staging.html#clinical-t-staging",
+    "href": "posts/prostate/staging.html#clinical-t-staging",
+    "title": "Staging for Prostate Cancer",
+    "section": "",
+    "text": "Table 1: Definition of clinical stages\n\n\n\n\n\n\n\n\n\ncT\nDescription\n\n\n\n\nTX\nPrimary tumor cannot be assessed\n\n\nT0\nNo evidence of primary tumor\n\n\nT1\nClinically inapparent tumor that is not palpable\n\n\nT1a\nTumor incidental histologic finding in 5% or less of tissue resected\n\n\nT1b\nTumor incidental histologic finding in more than 5% of tissue resected\n\n\nT1c\nTumor identified by needle biopsy found in one or both sides, but not palpable\n\n\nT2\nTumor is palpable and confined within prostate\n\n\nT2a\nTumor involves one-half of one side or less\n\n\nT2b\nTumor involves more than one-half of one side but not both sides\n\n\nT2c\nTumor involves both sides\n\n\nT3\nExtraprostatic tumor that is not fixed or does not invade adjacent structures\n\n\nT3a\nExtraprostatic extension (unilateral or bilateral)\n\n\nT3b\nTumor invades seminal vesicle(s)\n\n\nT4\nTumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall",
+    "crumbs": [
+      "Prostate",
+      "Staging for Prostate Cancer"
+    ]
+  },
+  {
+    "objectID": "posts/prostate/staging.html#pathologic-t-staging",
+    "href": "posts/prostate/staging.html#pathologic-t-staging",
+    "title": "Staging for Prostate Cancer",
+    "section": "Pathologic T Staging",
+    "text": "Pathologic T Staging\n\n\n\n\nTable 2: Definition of pathologic T stages\n\n\n\n\n\n\n\n\n\npT\nDescription\n\n\n\n\nT2\nOrgan confined\n\n\nT3\nExtraprostatic extension\n\n\nT3a\nExtraprostatic extension (unilateral or bilateral) or microscopic invasion of bladder neck\n\n\nT3b\nTumor invades seminal vesicle(s)\n\n\nT4\nTumor is fixed or invades adjacent structures other than seminal vesicles such as external sphincter, rectum, bladder, levator muscles, and/or pelvic wall\n\n\n\n\n\n\n\nNote: There is no pathological T1\nNote: Positive surgical margin should be indicated by an R1 descriptor, indicating residual microscopic disease.",
+    "crumbs": [
+      "Prostate",
+      "Staging for Prostate Cancer"
+    ]
   }
 ]
